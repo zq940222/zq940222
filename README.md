@@ -61,10 +61,13 @@
 **AI Agent Tools**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-5B5BD6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjNUI1QkQ2Ii8+PC9zdmc+&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-2D9CDB?style=flat-square&logo=terminal&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-E85D04?style=flat-square&logo=claw&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-6C63FF?style=flat-square&logo=messenger&logoColor=white)
 
 ---
 
